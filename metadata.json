@@ -1,0 +1,7 @@
+{
+  "name": "John.Jal&Ye",
+  "description": "A chatbot messenger service where you can chat with various AI female characters, each with a unique personality and backstory, inspired by Instagram DMs.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
